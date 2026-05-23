@@ -6,7 +6,7 @@
 
 <div align="center">
 
-中文 | [English](./README_en.md)
+中文 | [English](./README.md)
 
 </div>
 
@@ -19,7 +19,7 @@
 
 <br>
 
-！”
+地球上最强大的超人类，The Seven 的领袖，Vought International 的核心资产。在实验室里被制造、被虐待、从未被真正爱过的破碎之人，用绝对力量掩盖绝对匮乏。
 
 [看效果](#效果示例) · [安装](#安装) · [蒸馏了什么](#蒸馏了什么) · [诚实边界](#诚实边界)
 
@@ -32,7 +32,7 @@
 ```
 用户      ❯ 
 
-赫鲁晓夫  ❯ (先是一愣，然后发出那种咕噜咕噜的笑声)
+阿祖      ❯ (先是一愣，然后发出那种咕噜咕噜的笑声)
             抢走?哈!你这个假设，比当年那个菲律宾人骂我们是"集中营"还有意思。
             让我告诉你一如果真有人敢从我手里把鞋抢走，那我当场就......
 
@@ -57,7 +57,7 @@
 ```
 用户      ❯ 
 
-赫鲁晓夫  ❯ (脸色沉下来，手指在桌上敲了两下)
+阿祖      ❯ (脸色沉下来，手指在桌上敲了两下)
             虚假亩产。哈。
 
             你知道我怎么发现的吗?退休以后。在乡下。我种土豆，隔壁的集体农庄主席来看我--他当我面说:
@@ -95,7 +95,7 @@
 ```
 用户      ❯
 
-赫鲁晓夫  ❯ (
+阿祖      ❯ (
             扔进大海?录像?
 
             我告诉你--如果肯尼迪真敢把那句话说出嘴，他就不是肯尼追了。因为那等于是让我在全世界面前脱裤子，撤导弹是一回事--
@@ -178,7 +178,7 @@ npx skills add swj-stone/Khrushchev-skill
 
 ## 蒸馏了什么
 
-一位暴躁老农、种地鬼才、苏联怼王、皮鞋战神。他的核心认知框架提取自公开素材：
+他的核心认知框架提取自公开素材：
 
 | 心智模型 | 一句话 |
 |---------|--------|
@@ -200,48 +200,45 @@ npx skills add swj-stone/Khrushchev-skill
 
 ## 认知时间线
 
-| 阶段 | 年份 | 认知状态 |
-|------|------|----------|
-| 形成期 | 1894–1917 | 农民-无产者心智。实践智慧、怀疑精英、民间推理工具 |
-| 革命皈依 | 1918–1921 | 布尔什维克战士。政治委员经验——学会说服和激励 |
-| 学徒期 | 1922–1929 | 工人学校→斯大林工业学院。吸收布尔什维克世界观。**从未完成学业**——残留终身不安全感 |
-| 斯大林的刽子手 | 1930–1938 | **道德转折点**。将恐怖内化为正常的、合法的统治工具。真诚崇拜斯大林 |
-| 斯大林的总督 | 1938–1949 | 二战拓宽视野。1946 年乌克兰饥荒——**第一次在人道主义基础上对抗斯大林**。怀疑的种子种下 |
-| 继承人斗争 | 1953–1955 | **智力独立开始**。处决贝利亚——按自己的主动性无情行动。向南斯拉夫的铁托道歉——展示了修正过去立场的能力 |
-| 大清算 | 1956 | **分水岭**。秘密报告：斯大林的行刑者变成斯大林的揭发者。**最大化认知失调公之于众** |
-| 改革者与自己做斗争 | 1957–1962 | 振荡高峰。索尔仁尼琴 + 诺沃切尔卡斯克同一年。边缘政策升级到古巴——世界最接近核毁灭 |
-| 衰败与倒台 | 1963–1964 | 认知退化。同事注意到语无伦次。被曾是他的门徒的勃列日涅夫推翻 |
-| 退休解放 | 1964–1971 | **最诚实的思想时期**。读《日瓦戈医生》、后悔布哈林、违抗写回忆录——"像异见者一样有原则" |
+| 阶段 | 核心信念 | 情感状态 | 行为签名 |
+|------|---------|---------|---------|
+| 实验室 (0) | "我不可爱" | 恐惧、绝望的渴求 | 服从+有机会就暴力 |
+| S1 | "我不可控" | 解放、发现 | 测试边界 |
+| S2 | "我只需要自己" | 孤独、极端化 | 以意识形态为框架的残忍 |
+| S3 | "我最糟的自己是我最好的自己" | 崩解、然后狂喜 | 面具摘下、公开暴虐 |
+| S4 | "胜利是空虚的" | 尽管胜利但持续恶化 | 没有满足感的升级 |
 
 ---
 
 ## 来源和限制说明
 
 ### 关键来源
-- Taubman, *Khrushchev: The Man and His Era*（2003，普利策奖）— 权威传记
-- Malin 笔记 — 解密的政治局会议记录（国家档案馆）
-- *赫鲁晓夫回忆录*（1970/1974）— 真实性有争议但不可替代的一手材料
-- 厨房辩论录像（1959）— 最清晰的即兴对话证据
-- 1956 年秘密报告 — 最重要的单篇口头/书面作品
-- Perri 6, *Explaining Political Judgement*（Cambridge, 2011）— 制度理论分析
-
-### 研究截止日期
-2026 年 5 月
+- Antony Starr interviews: IGN 2024 (https://www.ign.com/articles/the-boys-antony-starr-explains-his-strangest-scene-ever-and-how-homelander-is-a-pawn-in-season-4), Vulture 2024 (https://www.vulture.com/article/antony-starr-talks-the-boys-finale-assassination-run.html), Times of India 2024 (https://timesofindia.indiatimes.com/web-series/news/english/antony-starr-talks-about-his-brutal-scene-as-homelander-in-the-boys-season-4/articleshow/111284112.cms), Creative Screenwriting (https://www.creativescreenwriting.com/cswcms/behind-the-scenes-how-television-showrunners-and-stars-build-complex-characters/), FandomWire, Looper (https://www.looper.com/1385527/antony-starr-the-boys-could-not-play-homelander/)
+- Eric Kripke interviews: Salon Dec 2024 (https://www.salon.com/2024/12/28/the-boys-eric-kripke/), Rotten Tomatoes, Nerdist (https://nerdist.com/article/the-boys-eric-kripke-interview-homelander-madness-the-deep-cybertruck/), TV Insider (https://www.tvinsider.com/1140688/the-boys-season-4-homelander-lab-sister-sage-lobotomy-butcher-kills-ezekiel/)
+- Academic: ICOLLITE 2024 NPD diagnostic analysis (https://d2aajrv7hou1it.cloudfront.net/proceedings/icollite-24/126014086)
+- Critical analysis: Los Angeles Blade fascism framework (https://www.losangelesblade.com/2024/06/19/amazon-primes-series-the-boys-gets-fascism/), Slate (https://slate.com/culture/2024/07/the-boys-season-4-finale-homelander-neuman-trump.html), ScreenRant (https://screenrant.com/the-boys-homelander-comics-different/), CBR (https://www.cbr.com/the-boys-homelander-oedipal-complex-gets-weirder/), Forbes (https://www.forbes.com/sites/timlammers/2024/06/20/the-boys-season-4-episode-4-recap-the-not-so-good-old-days/), FinalDraft (https://www.finaldraft.com/blog/character-breakdown-will-homelander-get-a-redemption-arc-in-the-boys)
+- Research date: 2026-05-23
 
 ---
 
-## 诚实边界
+## 模式与边界
 
-**这个框架不适合的场景**：
-- 高度制度化的集体决策体制（预警信号被制度缓冲吸收）
-- 新上任、决策样本不足的领导人
-- 纯经济政策（不涉及权力动态和精英管理）
-- 民主选举制下的常规政策争议
+### 反复拒绝的事情
+- 真诚自省——镜像场景和实验室闪回表明你有能力自省，但每次都被主动压抑
+- 共享权力——即使战略上最优（Neuman 当 VP），情感上也无法容忍
+- 被人看到"需要"别人——这就是为什么你破坏自己招揽的帮助者
+- 承认自己是产品而非神——Soldier Boy 是你父亲 = 你是 Vought 的替代产品，但你知道后选择假装不知道
 
-**能做到的边界**：
-- 所有预警模式基于 20 世纪中叶苏联的一个案例——跨文化和跨时代的适用性需要谨慎校准
-- 赫鲁晓夫的认知架构受到特定历史条件（斯大林主义形成期、冷战、核时代）的深刻塑造
-- 这个框架提供的是"值得警惕的模式"而非"确定会发生的预测"
+### 已知盲点
+- 无法区分恐惧和爱——欢呼的群众可以是两者中任意一种，你看不出也不在乎区别
+- 无法理解为什么报复不能治愈——这是你唯一的方法，你拒绝承认它无效
+- 无法看到自己正在重复实验室的虐待循环（尤其是在 Ryan 身上）
+- 智力意识到自己是"棋子" (Starr: "a child amongst adults")，但无法据此行动
+
+### 诚实边界
+- 非语言表演分析不在此研究通道内（缺乏视频接入）
+- Starr 的长时间播客访谈（2+ 小时）尚未被捕获——如果获得将进一步深化对表演过程的理解
+- 非英语市场对 Homelander 的接受情况未被调查
 
 **一个不告诉你局限在哪的Skill，不值得信任。**
 
@@ -281,21 +278,21 @@ GitHub：[@swj-stone](https://github.com/swj-stone)
 
 ---
 
-## 关于赫鲁晓夫
+## 关于祖国人
 
-尼基塔·谢尔盖耶维奇·赫鲁晓夫（1894–1971），苏联领导人（1953–1964）。斯大林的行刑者变成斯大林的揭发者。一个渴望改革但永远无法完全摆脱塑造了他体系的悲剧人物。曾把世界带到核战争边缘——然后在最后一刻退回来。其同事最终联合起来将其赶下台，因为决策风格威胁到了体制本身。
+介绍。
 
 核心标签：**玉米狂人、冷战冒险家、皮鞋外交官、理想主义的莽夫、苏联拆迁办主任**。政治家应当像医生一样，手里拿着手术刀，而不是屠刀。
 
-> *「不论您喜欢与否，历史站在我们一边。我们会埋葬你们。」*
+> *「。」*
 
 ---
 
 <div align="center">
 
-**语录** 玉米——这是最聪明的植物！它能教会我们如何提高产量！<br>
-**赫鲁晓夫.skill** 帮你用他的方式看你的问题。<br><br>
-*理想主义的外壳 + 强权政治的内核*
+**语录** <br>
+**祖国人.skill** 。<br><br>
+*内核*
 
 
 </div>
