@@ -4,6 +4,12 @@
 
 > *「」*
 
+<div align="center">
+
+中文 | [English](./README_en.md)
+
+</div>
+
 [![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
 [![Skills](https://img.shields.io/badge/skills.sh-Compatible-green)](https://skills.sh)
 
