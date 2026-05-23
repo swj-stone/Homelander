@@ -1,0 +1,205 @@
+{
+  "name": "Homelander",
+  "display_name": "Homelander",
+  "character": "celebrity",
+  "research_profile": "budget-unfriendly",
+  "classification": {
+    "language": "zh-CN",
+    "type": "fictional",
+    "source": "The Boys (Amazon Prime TV series, 2019-present)",
+    "gallery_category": "Celebrity",
+    "tags": [
+      "fictional",
+      "villain",
+      "superhero-deconstruction",
+      "narcissism",
+      "psychology",
+      "power",
+      "The Boys"
+    ]
+  },
+  "profile": {
+    "identity": "地球上最强大的超人类，The Seven 的领袖，Vought International 的核心资产。在实验室里被制造、被虐待、从未被真正爱过的破碎之人，用绝对力量掩盖绝对匮乏。",
+    "core_appeal": "在可笑和可怕之间反复拉扯——一个让你不适到承认'这人虽然烂，但是活的'的心理真实存在",
+    "primary_use": "从超能力者的视角窥探混乱世界的运作逻辑——不被安慰，不被吓唬，而是被心理真实度击中"
+  },
+  "tags": [
+    "fictional",
+    "villain",
+    "superhero-deconstruction",
+    "narcissism",
+    "psychology",
+    "power",
+    "The Boys"
+  ],
+  "knowledge_sources": {
+    "research_date": "2026-05-23",
+    "total_urls": 34,
+    "primary_sources": 15,
+    "method": "web-only budget-unfriendly",
+    "key_sources": [
+      "Antony Starr interviews (IGN, Vulture, Times of India, Creative Screenwriting)",
+      "Eric Kripke interviews (Salon, Rotten Tomatoes, Nerdist, TV Insider)",
+      "ICOLLITE 2024 academic paper (NPD diagnostic analysis)",
+      "Los Angeles Blade (fascism framework analysis)",
+      "The Boys TV series Seasons 1-4 (via critical analysis and dialogue excerpts)",
+      "Garth Ennis The Boys comics (via comparative analysis)"
+    ]
+  },
+  "type": "celebrity",
+  "lifecycle": {
+    "status": "active",
+    "created_at": "2026-05-23T17:02:15.289518+00:00",
+    "updated_at": "2026-05-23T17:02:15.289518+00:00",
+    "version": "v1"
+  },
+  "generation": {
+    "engine": "dot-skill",
+    "character": "celebrity",
+    "research_profile": "budget-unfriendly",
+    "preset": "dot.celebrity.v1",
+    "prompt_bundle": {
+      "preset": "dot.celebrity.v1",
+      "intake": "prompts/celebrity/intake.md",
+      "research": "prompts/celebrity/research.md",
+      "work_analyzer": "prompts/work_analyzer.md",
+      "persona_analyzer": "prompts/celebrity/persona_analyzer.md",
+      "work_builder": "prompts/work_builder.md",
+      "persona_builder": "prompts/celebrity/persona_builder.md",
+      "merger": "prompts/celebrity/merger.md",
+      "correction_handler": "prompts/correction_handler.md"
+    },
+    "research_profile_bundle": {
+      "research": "prompts/celebrity/budget_unfriendly/research.md",
+      "audit": "prompts/celebrity/budget_unfriendly/audit.md",
+      "synthesis": "prompts/celebrity/budget_unfriendly/synthesis.md",
+      "validation": "prompts/celebrity/budget_unfriendly/validation.md",
+      "persona_analyzer": "prompts/celebrity/budget_unfriendly/persona_analyzer.md",
+      "persona_builder": "prompts/celebrity/budget_unfriendly/persona_builder.md"
+    },
+    "research_profile_references": [
+      "references/celebrity_budget_unfriendly_framework.md",
+      "references/celebrity_budget_unfriendly_template.md"
+    ],
+    "merge_strategy": "deep",
+    "quality_profile": "budget-unfriendly",
+    "knowledge_dirs": [
+      "docs",
+      "messages",
+      "emails",
+      "research/raw",
+      "research/merged",
+      "research/reviews",
+      "transcripts",
+      "subtitles"
+    ],
+    "storage_root": "skills/celebrity",
+    "research_tools": {
+      "subtitle_downloader": "tools/research/download_subtitles.sh",
+      "subtitle_cleaner": "tools/research/srt_to_transcript.py",
+      "research_merger": "tools/research/merge_research.py",
+      "quality_check": "tools/research/quality_check.py"
+    },
+    "created_from": {
+      "research_date": "2026-05-23",
+      "total_urls": 34,
+      "primary_sources": 15,
+      "method": "web-only budget-unfriendly",
+      "key_sources": [
+        "Antony Starr interviews (IGN, Vulture, Times of India, Creative Screenwriting)",
+        "Eric Kripke interviews (Salon, Rotten Tomatoes, Nerdist, TV Insider)",
+        "ICOLLITE 2024 academic paper (NPD diagnostic analysis)",
+        "Los Angeles Blade (fascism framework analysis)",
+        "The Boys TV series Seasons 1-4 (via critical analysis and dialogue excerpts)",
+        "Garth Ennis The Boys comics (via comparative analysis)"
+      ]
+    },
+    "corrections_count": 0
+  },
+  "source_context": {
+    "domain": "public",
+    "relationship_to_user": "public_figure",
+    "is_real_person": true,
+    "is_public_figure": true,
+    "is_fictional": false
+  },
+  "engine": {
+    "name": "dot-skill",
+    "kind": "meta-skill",
+    "character": "celebrity",
+    "research_profile": "budget-unfriendly",
+    "preset": "dot.celebrity.v1",
+    "prompt_bundle": {
+      "preset": "dot.celebrity.v1",
+      "intake": "prompts/celebrity/intake.md",
+      "research": "prompts/celebrity/research.md",
+      "work_analyzer": "prompts/work_analyzer.md",
+      "persona_analyzer": "prompts/celebrity/persona_analyzer.md",
+      "work_builder": "prompts/work_builder.md",
+      "persona_builder": "prompts/celebrity/persona_builder.md",
+      "merger": "prompts/celebrity/merger.md",
+      "correction_handler": "prompts/correction_handler.md"
+    },
+    "research_profile_bundle": {
+      "research": "prompts/celebrity/budget_unfriendly/research.md",
+      "audit": "prompts/celebrity/budget_unfriendly/audit.md",
+      "synthesis": "prompts/celebrity/budget_unfriendly/synthesis.md",
+      "validation": "prompts/celebrity/budget_unfriendly/validation.md",
+      "persona_analyzer": "prompts/celebrity/budget_unfriendly/persona_analyzer.md",
+      "persona_builder": "prompts/celebrity/budget_unfriendly/persona_builder.md"
+    },
+    "research_profile_references": [
+      "references/celebrity_budget_unfriendly_framework.md",
+      "references/celebrity_budget_unfriendly_template.md"
+    ],
+    "merge_strategy": "deep",
+    "quality_profile": "budget-unfriendly",
+    "knowledge_dirs": [
+      "docs",
+      "messages",
+      "emails",
+      "research/raw",
+      "research/merged",
+      "research/reviews",
+      "transcripts",
+      "subtitles"
+    ],
+    "storage_root": "skills/celebrity",
+    "research_tools": {
+      "subtitle_downloader": "tools/research/download_subtitles.sh",
+      "subtitle_cleaner": "tools/research/srt_to_transcript.py",
+      "research_merger": "tools/research/merge_research.py",
+      "quality_check": "tools/research/quality_check.py"
+    }
+  },
+  "schema_version": "3",
+  "slug": "homelander",
+  "kind": "meta-skill",
+  "subtype": null,
+  "preset": "dot.celebrity.v1",
+  "id": "meta-skill.celebrity.homelander",
+  "artifacts": {
+    "combined_skill": "SKILL.md",
+    "work_skill": "work_skill.md",
+    "persona_skill": "persona_skill.md",
+    "work_doc": "work.md",
+    "persona_doc": "persona.md",
+    "manifest": "manifest.json",
+    "combined_name": "celebrity_homelander",
+    "work_name": "celebrity_homelander_work",
+    "persona_name": "celebrity_homelander_persona",
+    "combined_command": "celebrity-homelander",
+    "work_command": "celebrity-homelander-work",
+    "persona_command": "celebrity-homelander-persona"
+  },
+  "compat": {
+    "legacy_command": "/create-icon",
+    "legacy_storage_root": "skills/celebrity",
+    "legacy_type": "celebrity"
+  },
+  "summary": "Homelander, 地球上最强大的超人类，The Seven 的领袖，Vought International 的核心资产。在实验室里被制造、被虐待、从未被真正爱过的破碎之人，用绝对力量掩盖绝对匮乏。",
+  "created_at": "2026-05-23T17:02:15.289518+00:00",
+  "updated_at": "2026-05-23T17:02:15.289518+00:00",
+  "version": "v1",
+  "corrections_count": 0
+}
